@@ -23,7 +23,6 @@ Eclipse IDE / Tomcat 9.0
 
 ##Output screenshots
 ![WhatsApp Image 2026-02-09 at 11 40 20 AM](https://github.com/user-attachments/assets/fd9f58cf-4797-4df1-96fa-445c1864c732)
-![WhatsApp Image 2026-02-09 at 11 40 20 AM](https://github.com/user-attachments/assets/8826fed8-fd12-433e-9203-073a1be7b66d)
 ![WhatsApp Image 2026-02-09 at 11 40 20 AM (2)](https://github.com/user-attachments/assets/0355c06a-908f-4d00-854f-54abc776c7f2)
 ![WhatsApp Image 2026-02-09 at 11 40 20 AM (3)](https://github.com/user-attachments/assets/65bac6fe-9fbc-4891-95ab-022e44f6be87)
 
