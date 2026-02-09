@@ -1,0 +1,9 @@
+CREATE TABLE Book_tbl(
+ISBN Varchar2(10) PRIMARY KEY,
+Book_title Varchar2(20) NOT NULL,
+Book_type Char(1),
+Author_code Number(5) ,
+Book_cost Number(8,2),
+CONSTRAINT fk_Author_code FOREIGN KEY(Author_code) REFERENCES Author_Tbl(Author_code)
+);
+
